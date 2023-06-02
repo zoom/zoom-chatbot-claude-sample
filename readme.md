@@ -60,11 +60,11 @@ The application will run on `http://localhost:4000/` by default, but you can set
 
 "Tell me some places to visit in San Francisco?"
 
-![Image 1](Zoom-Anthropic-Chatbot/images/image1.png)
+![Image 1](./images/image1.png)
 
 and your respose would look like this: 
 
-![Image 2](Zoom-Anthropic-Chatbot/images/image_2.png)
+![Image 2](./images/image_2.png)
 
 If you want to use the bot in a chat or a channel, you can invoke the bot with a "/"
-![Image 3](Zoom-Anthropic-Chatbot/images/image1.png)
+![Image 3](./images/image1.png)
