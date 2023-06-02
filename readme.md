@@ -52,7 +52,7 @@ To obtain these variables:
 
 To start the application:
 
-npm start
+node index,js
 
 The application will run on `http://localhost:4000/` by default, but you can set a different port by changing the `PORT` variable in your `.env` file.
 
