@@ -1,6 +1,6 @@
 # Zoom-Anthropic-Chatbot
 
-This project is a Zoom chatbot that uses the Anthropics API to provide responses. 
+This project is a Zoom Team Chat App that uses the Anthropics API to provide responses in Zoom Team Chat. 
 
 ## Prerequisites
 
@@ -42,20 +42,29 @@ To obtain these variables:
 
 - For the ANTHROPIC_API_KEY, you can obtain it by applying for access to Claude via the Anthropics [web console](https://console.anthropic.com/docs/api). Once you have access, you can generate API keys in your Account Settings.
 
+## Running the Application
+
+To start the application:
+
+node index.js
+
+The application will run on `http://localhost:4000/` by default, but you can set a different port by changing the `PORT` variable in your `.env` file.
+
 ## Usage
 
 - In your Zoom Team Chat App's Credentials section, go to the Local Test or Submit page depending on which environment you are using (Development or Production), and click "Add". 
 - After authorizing, you will be taken to Zoom Team Chat and see a message from the Zoom-Anthropic-Chatbot: <br />
 "Greetings from Zoom-Anthropic-Chatbot Bot!"
 
-## Running the Application
+- To use the bot type a message in the chat like this: 
 
-To start the application:
+"Tell me some places to visit in San Francisco?"
 
-node index,js
+![Alt Text](/Users/ojusave/Desktop/image1.png)
 
-The application will run on `http://localhost:4000/` by default, but you can set a different port by changing the `PORT` variable in your `.env` file.
+and your respose would look like this: 
 
-When a message is received, the chatbot will call the Anthropics API and respond with the generated text.
+![Alt Text](/Users/ojusave/Desktop/image 2.png)
 
-
+- If you want to use the bot in a chat or a channel, you can invoke the bot with a "/"
+![Alt Text](/Users/ojusave/Desktop/image 3.png)
