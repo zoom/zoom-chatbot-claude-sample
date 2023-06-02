@@ -12,15 +12,15 @@ Before you can use this chatbot, you'll need the following:
 
 ## Setup
 
-First, clone the repository:
+- First, clone the repository:
 
-git clone https://github.com/ojusave/Zoom-Anthropic-Chatbot.git
+- git clone https://github.com/ojusave/Zoom-Anthropic-Chatbot.git
 
-cd Zoom-Anthropic-Chatbot
+- cd Zoom-Anthropic-Chatbot
 
-Next, install the required Node.js packages:
+- Next, install the required Node.js packages:
 
-npm install
+    - npm install
 
 
 ## Configuration
