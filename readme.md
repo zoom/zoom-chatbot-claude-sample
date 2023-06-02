@@ -28,12 +28,12 @@ npm install
 
 You need to set up your environment variables. Create a `.env` file in the project root and add the following variables:
 
-ZOOM_CLIENT_ID=
-ZOOM_CLIENT_SECRET=
-ZOOM_BOT_JID=
-ZOOM_WEBHOOK_SECRET_TOKEN=
-ZOOM_VERIFICATION_CODE=
-ANTHROPIC_API_KEY=
+- ZOOM_CLIENT_ID=
+- ZOOM_CLIENT_SECRET=
+- ZOOM_BOT_JID=
+- ZOOM_WEBHOOK_SECRET_TOKEN=
+- ZOOM_VERIFICATION_CODE=
+- ANTHROPIC_API_KEY=
 
 
 To obtain these variables:
