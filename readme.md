@@ -44,7 +44,8 @@ To obtain these variables:
 
 ## Usage
 
-On your Zoom Team Chat App's Credentials section, go to the Local Test or Submit page depending on which environment you are using (Development or Production), and click "Add". After authorizing, you will be taken to Zoom Team Chat and see a message from the Zoom-Anthropic-Chatbot:
+- In your Zoom Team Chat App's Credentials section, go to the Local Test or Submit page depending on which environment you are using (Development or Production), and click "Add". 
+- After authorizing, you will be taken to Zoom Team Chat and see a message from the Zoom-Anthropic-Chatbot: <br />
 "Greetings from Zoom-Anthropic-Chatbot Bot!"
 
 ## Running the Application
