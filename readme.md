@@ -67,4 +67,4 @@ and your respose would look like this:
 ![Image 2](./images/image_2.png)
 
 If you want to use the bot in a chat or a channel, you can invoke the bot with a "/"
-![Image 3](./images/image1.png)
+![Image 3](./images/image_3.png)
