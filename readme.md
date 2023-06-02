@@ -64,7 +64,7 @@ The application will run on `http://localhost:4000/` by default, but you can set
 
 and your respose would look like this: 
 
-![Alt Text](/Users/ojusave/Desktop/image 2.png)
+![Alt Text](/Users/ojusave/Desktop/image_2.png)
 
-- If you want to use the bot in a chat or a channel, you can invoke the bot with a "/"
-![Alt Text](/Users/ojusave/Desktop/image 3.png)
+If you want to use the bot in a chat or a channel, you can invoke the bot with a "/"
+![Alt Text](/Users/ojusave/Desktop/image_3.png)
