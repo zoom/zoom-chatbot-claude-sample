@@ -7,9 +7,8 @@ This project is a Zoom Team Chat App that uses the Anthropics API to provide res
 Before you can use this chatbot, you'll need the following:
 
 - Node.js (version 12 or later)
-- npm (comes with Node.js)
 - A Zoom account 
-- An Anthropics account
+- An Anthropic AI account
 
 ## Setup
 
