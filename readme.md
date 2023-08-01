@@ -14,7 +14,7 @@ Before you can use this chatbot, you'll need the following:
 
 - First, clone the repository:
 
-- git clone https://github.com/ojusave/Zoom-Anthropic-Chatbot.git
+- git clone [https://github.com/ojusave/Zoom-Anthropic-Chatbot.git](https://github.com/zoom/team-chat-app-anthropic-ai)
 
 - cd Zoom-Anthropic-Chatbot
 
