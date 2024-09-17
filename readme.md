@@ -1,6 +1,13 @@
 # Zoom-Anthropic-Chatbot
 
-This project is a Zoom Team Chat App that uses the Anthropics API to provide responses in Zoom Team Chat. 
+This project integrates Anthropic's Claude AI with Zoom Team Chat, creating an intelligent chatbot that can assist users directly within their Zoom conversations. The bot leverages Claude's advanced language understanding and generation capabilities to provide helpful responses to user queries on a wide range of topics.
+
+#What the Chatbot does?
+
+- Responds to user messages in Zoom Team Chat using Anthropic's Claude AI.
+- Maintains conversation history for context-aware responses.
+- Can be used in direct messages or invoked in group chats and channels.
+- Provides helpful information, answers questions, assists with tasks, and engages in discussions on various topics.
 
 ## Prerequisites
 
