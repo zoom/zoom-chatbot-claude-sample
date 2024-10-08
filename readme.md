@@ -1,4 +1,4 @@
-# Zoom-Anthropic-Chatbot
+# Zoom Chatbot Powered by Claude (Anthropic.ai)
 
 This project integrates Anthropic's Claude AI with Zoom Team Chat, creating an intelligent chatbot that can assist users directly within their Zoom conversations. The bot leverages Claude's advanced language understanding and generation capabilities to provide helpful responses to user queries on a wide range of topics.
 
